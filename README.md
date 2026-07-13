@@ -1,6 +1,6 @@
 This project includes modifications to the original Biome-BGCMuSo model (version 6.1). All modified parts of the code have been annotated with comments in the style of "ZL" to indicate the changes made by Lei Zheng. These annotations aim to provide clarity and traceability for the modifications.
 
-<img width="1535" height="863" alt="放牧示意图" src="https://github.com/user-attachments/assets/8ebfa6e4-c44e-4cda-8d01-13b31f397a79" />
+<img width="1842" height="1036" alt="放牧示意图" src="https://github.com/user-attachments/assets/24887d71-0999-4445-be82-4b3c62a7446f" />
 
 Key features
 
