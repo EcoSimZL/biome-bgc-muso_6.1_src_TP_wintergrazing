@@ -1,4 +1,9 @@
 This project includes modifications to the original Biome-BGCMuSo model (version 6.1). All modified parts of the code have been annotated with comments in the style of "ZL" to indicate the changes made by Lei Zheng. These annotations aim to provide clarity and traceability for the modifications.
+If you use our grazing model, please cite our paper in addition to the relevant publications by Dr. Dóra Hidy:
+
+Zheng, L., Pei, Y., Yang, F., Yuan, X., Peng, J., Zhu, B., & Wang, G. (2026). Modeling grazing effects on carbon dynamics in alpine grasslands of the Qinghai-Tibetan Plateau using the Biome-BGCMuSo model. *Agriculture, Ecosystems & Environment, 397*, 110056.
+
+This will ensure that both the original model development and our application of the grazing model are properly acknowledged.
 
 <img width="1842" height="1036" alt="放牧示意图" src="https://github.com/user-attachments/assets/24887d71-0999-4445-be82-4b3c62a7446f" />
 
